@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bullguard",
-    "currentPage": "Bullguard.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "commercem4",
       "title": "CommerceM4",
@@ -61,7 +61,7 @@
     "google-analytics": ""
   },
   "pages": {
-    "Bullguard.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Bullguard Brasil ",
